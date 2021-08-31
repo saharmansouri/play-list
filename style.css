@@ -1,0 +1,28 @@
+table{
+    margin: auto;
+    font-family: Roboto,sans-serif;
+}
+img{
+width: 50px;
+height: 50px;
+    padding-right: 13px;
+}
+.header{
+    text-align: left;
+    height: 50px;
+    color: #000;
+}
+tr{
+    height: 80px;
+}
+.material-icons{
+    color: #b7b7b7;
+}
+.icon{
+    width: 50px;
+}
+.experes{
+    font-size: 16px;
+    color: #989898;
+    padding-right: 60px;
+}
